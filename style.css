@@ -329,11 +329,6 @@ td{
     color: var(--cor-principal);
     margin-right: 1em;
 }
-
-.skill_content div:hover{
-    cursor: pointer;
-    transform: scale(1.02);
-}
 /*=============================================*/
 
 #projects{
