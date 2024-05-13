@@ -35,7 +35,7 @@ window.onscroll = () => {
 
 /*============ scroll reveal =============*/
 ScrollReveal({ 
-  reset: true,
+  /*reset: true,*/
   distance: '80px',
   duration: 1500,
   delay: 100
@@ -44,4 +44,3 @@ ScrollReveal({
 ScrollReveal().reveal('.anm_top', { origin: 'top' });
 ScrollReveal().reveal('.anm_bottom', { origin: 'bottom' });
 ScrollReveal().reveal('.anm_left', { origin: 'left' });
-ScrollReveal().reveal('.anm_right', { origin: 'right' });

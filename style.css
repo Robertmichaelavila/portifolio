@@ -196,7 +196,6 @@ section{
     position: absolute;
     top: 0;
     right: 0;
-    width: 0;
     z-index: 0;
     border-bottom: 371.5px solid var(--cor-principal);
     border-left: 371.5px solid transparent;
