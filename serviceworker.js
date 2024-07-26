@@ -1,5 +1,13 @@
 var staticCacheName = "pwa";
 
+const filesToCache = [
+	'./index.html',
+	'./style.css',
+	'./mediaQueries.css',
+  './script.js',
+	'./image1-removebg-preview.png',
+];
+
 self.addEventListener("install", function (e) {
   e.waitUntil (
     caches.open(staticCacheName).then(function (cache){
