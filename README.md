@@ -47,7 +47,7 @@ As PWAs combinam as melhores características dos sites e dos aplicativos móvei
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/robertmichael/portifolio
+    git clone https://github.com/Robertmichaelavila/portifolio.git
     ```
 
 2. Navegue até o diretório do projeto:
