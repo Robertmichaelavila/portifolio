@@ -8,11 +8,10 @@ Este projeto é uma aplicação web progressiva (PWA) desenvolvida com HTML, CSS
 
 1. [Introdução](#introdução)
 2. [Funcionalidades](#funcionalidades)
-3. [Estrutura do Projeto](#estrutura-do-projeto)
-4. [Configuração e Instalação](#configuração-e-instalação)
-5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-6. [Como Contribuir](#como-contribuir)
-7. [Licença](#licença)
+3. [Configuração e Instalação](#configuração-e-instalação)
+4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+5. [Como Contribuir](#como-contribuir)
+6. [Licença](#licença)
 
 ## Introdução
 
@@ -25,21 +24,6 @@ As PWAs combinam as melhores características dos sites e dos aplicativos móvei
 - **Instalável:** Pode ser adicionado à tela inicial de dispositivos móveis.
 - **Atualizações Automáticas:** Conteúdo atualizado automaticamente em segundo plano.
 - **Notificações Push:** Envio de notificações para engajamento do usuário.
-
-## Estrutura do Projeto
-
-my-pwa-project/
-├── css/
-│ └── styles.css
-├── js/
-│ ├── app.js
-│ └── sw.js
-├── images/
-│ └── icons/
-│ └── icon-192x192.png
-├── index.html
-├── manifest.json
-└── README.md
 
 ### Descrição dos Arquivos
 
@@ -63,13 +47,13 @@ my-pwa-project/
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/usuario/my-pwa-project.git
+    git clone https://github.com/robertmichael/portifolio
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd my-pwa-project
+    cd portifolio
     ```
 
 3. Inicie um servidor local (exemplo com Python):
