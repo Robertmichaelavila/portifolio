@@ -8,26 +8,9 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="mediaQueries.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <meta name="description" content="Currículo profissional de Jonatas Fernandes Silva, especializado em desenvolvimento web.">
+    <meta name="theme-color" content="#333333">
     <link rel="manifest" href="manifest.json">
-    <script>
-        window.addEventListener('load', () => {
-            registerSW();
-        });
-
-        async function registerSW() {
-            if ('servicesWorker' in navigator) {
-                try {
-                    await navigator
-                        .serviceWorker
-                        .register('serviceworker.js');
-                }
-                catch (e) {
-                    console.log('SW registration failed');
-                }
-            }
-        }
-    </script>
-    
     <title>Portifolio</title>
 </head>
 <body>
@@ -222,6 +205,24 @@
         </div>
     </footer>
 
+    <script>
+        window.addEventListener('load', () => {
+            registerSW();
+        });
+
+        async function registerSW() {
+            if ('servicesWorker' in navigator) {
+                try {
+                    await navigator
+                        .serviceWorker
+                        .register('serviceworker.js');
+                }
+                catch (e) {
+                    console.log('SW registration failed');
+                }
+            }
+        }
+    </script>
     <script src="https://unpkg.com/scrollreveal" defer></script>
     <script src="script.js" lang="JavaScript" defer></script>
 </body>
