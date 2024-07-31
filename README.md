@@ -28,11 +28,11 @@ As PWAs combinam as melhores características dos sites e dos aplicativos móvei
 ### Descrição dos Arquivos
 
 - `index.html`: Página principal do site.
-- `css/styles.css`: Arquivo de estilos CSS.
-- `js/app.js`: Lógica principal da aplicação.
-- `js/sw.js`: Service Worker para gerenciamento de cache e funcionalidade offline.
+- `style.css`: Arquivo de estilos CSS.
+- `script.js`: Lógica principal da aplicação.
+- `js/serviceworker.js`: Service Worker para gerenciamento de cache e funcionalidade offline.
 - `manifest.json`: Arquivo de manifesto para definição de metadados da PWA.
-- `images/icons/`: Ícones para diferentes resoluções de tela.
+- `icons8-developer-100png`: Ícones para diferentes resoluções de tela.
 - `README.md`: Documentação do projeto.
 
 ## Configuração e Instalação
