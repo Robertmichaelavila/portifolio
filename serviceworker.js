@@ -4,7 +4,7 @@ const filesToCache = [
 	'./index.html',
 	'./style.css',
 	'./mediaQueries.css',
-  './script.js',
+  	'./script.js',
 	'./image1-removebg-preview.png',
 ];
  
