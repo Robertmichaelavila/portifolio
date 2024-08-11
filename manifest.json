@@ -2,7 +2,7 @@
   "name": "Robert",
   "short_name": "Currículo-Profissional",
   "description": "Currículo profissional de Robert Michael de Ávila Barreira, especializado em desenvolvimento web.",
-  "start_url": "index.html",
+  "start_url": ".",
   "scope": ".",
   "display": "standalone",
   "background_color": "#ffffff",
