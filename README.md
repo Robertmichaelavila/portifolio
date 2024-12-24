@@ -1,8 +1,8 @@
-# Projeto: Portifólio html em PWA
+# Portifólio
 
 ## Visão Geral
 
-Este projeto é uma aplicação web progressiva (PWA) desenvolvida com HTML, CSS e JavaScript. O objetivo é criar um site responsivo, rápido e que funcione offline, proporcionando uma experiência de usuário similar a aplicativos nativos.
+Este portifólio é uma aplicação web progressiva (PWA) desenvolvida com HTML, CSS e JavaScript. O objetivo é criar um site responsivo, rápido e que funcione offline, proporcionando uma experiência de usuário similar a aplicativos nativos.
 
 ## Índice
 
